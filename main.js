@@ -579,7 +579,7 @@ async function main() {
     console.log(`Proxy: ${proxies.length}`);
     process.exit(1);
   }
-  console.log("Tool được phát triển bởi nhóm tele Airdrop Hunter Siêu Tốc (https://t.me/airdrophuntersieutoc)".yellow);
+  console.log("Tool Developed By MRP Tech)".yellow);
   if (!settings.USE_PROXY) {
     console.log(`You are running bot without proxies!!!`.yellow);
   }
@@ -650,7 +650,7 @@ async function main() {
     }
 
     await sleep(3);
-    console.log("Tool được phát triển bởi nhóm tele Airdrop Hunter Siêu Tốc (https://t.me/airdrophuntersieutoc)".yellow);
+    console.log("Tool Developed By MRP Tech)".yellow);
     console.log(`=============${new Date().toLocaleString()} | Hoàn thành tất cả tài khoản | Chờ ${settings.TIME_SLEEP} phút=============`.magenta);
     await sleep(settings.TIME_SLEEP * 60);
   }
