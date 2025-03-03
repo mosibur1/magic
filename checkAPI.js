@@ -16,7 +16,7 @@ async function checkBaseUrl() {
     return {
       endpoint: settings.BASE_URL,
       message:
-        "Script By MRP Tech",
+        "Join Telegram Channel - @mrptechofficial",
     };
   }
 }
